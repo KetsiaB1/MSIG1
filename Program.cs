@@ -26,6 +26,8 @@ namespace VirtualPartager
             else
             {
                 Console.WriteLine("dommage pour toi // Too bad buddy");
+                Console.Clear();
+                Console.WriteLine("$ I'AM HUNGRYYYYYYYY(Signé André et Laora)")
             }
         }
     }
